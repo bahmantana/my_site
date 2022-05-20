@@ -4656,7 +4656,7 @@ html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li.drop
 }
 
 html.side-header-overlay-full-screen #header .header-nav-main nav > ul > li.dropdown .dropdown-submenu .dropdown-menu a {
-	font-size: 12px;
+	font-size: 16px;
 	font-size: 0.75rem;
 	opacity: 0.7;
 }
@@ -6219,8 +6219,8 @@ html.dark .text-muted {
 /* RTL */
 /* #Footer */
 #footer {
-	background: #212529;
-	border-top: 4px solid #212529;
+	background: #001632;
+	border-top: 1px solid #212529;
 	font-size: 0.9em;
 	margin-top: 50px;
 	padding: 0;
